@@ -1,0 +1,4 @@
+START RequestId: 84d44bec-cc44-43d2-9913-a2f5507be1e2 Version: $LATEST
+2022-11-15T22:22:08.967Z	84d44bec-cc44-43d2-9913-a2f5507be1e2	INFO	{"event":{"key":"value"},"context":{"callbackWaitsForEmptyEventLoop":true,"functionVersion":"$LATEST","functionName":"hello-world","memoryLimitInMB":"128","logGroupName":"/aws/lambda/hello-world","logStreamName":"2022/11/15/[$LATEST]8e5b4692cb91479f9ff2d80ec1810580","invokedFunctionArn":"arn:aws:lambda:us-east-1:229744700811:function:hello-world","awsRequestId":"84d44bec-cc44-43d2-9913-a2f5507be1e2"}}
+END RequestId: 84d44bec-cc44-43d2-9913-a2f5507be1e2
+REPORT RequestId: 84d44bec-cc44-43d2-9913-a2f5507be1e2	Duration: 20.65 ms	Billed Duration: 21 ms	Memory Size: 128 MB	Max Memory Used: 58 MB	
