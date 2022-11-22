@@ -15,3 +15,4 @@ Projects developed during an [AWS course](https://www.udemy.com/course/aws-lambd
 ## CLI Reference
 
 - [Lambda](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/index.html)
+- [DynamoDB](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/index.html)
