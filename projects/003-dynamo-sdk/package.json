@@ -1,0 +1,12 @@
+{
+  "name": "003-dynamo-sdk",
+  "version": "1.0.0",
+  "scripts": {},
+  "type": "module",
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.216.0"
+  }
+}
