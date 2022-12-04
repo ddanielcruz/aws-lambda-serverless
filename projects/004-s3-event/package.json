@@ -1,0 +1,11 @@
+{
+  "name": "004-s3-event",
+  "version": "1.0.0",
+  "scripts": {},
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.223.0",
+    "@aws-sdk/util-dynamodb": "^3.223.0"
+  }
+}

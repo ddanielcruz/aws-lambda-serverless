@@ -1,0 +1,38 @@
+{
+  "Records": [
+    {
+      "eventVersion": "2.1",
+      "eventSource": "aws:s3",
+      "awsRegion": "us-east-1",
+      "eventTime": "2022-12-04T13:04:21.942Z",
+      "eventName": "ObjectCreated:Put",
+      "userIdentity": {
+        "principalId": "AWS:AIDATK7OZ5WF4F3PRKHXP"
+      },
+      "requestParameters": {
+        "sourceIPAddress": "131.221.13.28"
+      },
+      "responseElements": {
+        "x-amz-request-id": "2HVJFMP8EM9SSNJA",
+        "x-amz-id-2": "8uUQQ1md+YvPB4MvHySJ1LMArqjFAeAhKfnnzNJ8yX6LEQcBKiHPs7CFU33SJWErKmvzyVDHLcbYrrKcx187wBzN6RQH3QZyHqTjFZJ+o3M="
+      },
+      "s3": {
+        "s3SchemaVersion": "1.0",
+        "configurationId": "8230bdaa-0392-4584-be77-ef774142cf6a",
+        "bucket": {
+          "name": "danielcruz-events-001",
+          "ownerIdentity": {
+            "principalId": "A3PD9GLX9JNOFQ"
+          },
+          "arn": "arn:aws:s3:::danielcruz-events-001"
+        },
+        "object": {
+          "key": "442114E0-5316-4BCA-970C-8EBF78622883_1_105_c.jpeg",
+          "size": 223690,
+          "eTag": "e8b3353fa5e4140aaafbde269383f8e7",
+          "sequencer": "00638C9AD5E4670E1C"
+        }
+      }
+    }
+  ]
+}
