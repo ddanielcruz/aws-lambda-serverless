@@ -11,6 +11,7 @@ Projects developed during an [AWS course](https://www.udemy.com/course/aws-lambd
 - [AWS Lambda Event Sources](https://docs.aws.amazon.com/lambda/latest/dg/lambda-services.html)
 - [AWS Lambda Node.js Context](https://docs.aws.amazon.com/lambda/latest/dg/nodejs-context.html)
 - [Choosing between REST APIs and HTTP APIs](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-vs-rest.html)
+- [Operation Lambda: Understanding event-driven architecture](https://aws.amazon.com/blogs/compute/operating-lambda-understanding-event-driven-architecture-part-1/)
 
 ## CLI Reference
 
